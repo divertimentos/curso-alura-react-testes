@@ -1,5 +1,3 @@
-![](https://github.com/guilherme-learning-center/testes-react-alura/blob/add-image/public/media/bytebank-screenshot.png)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
